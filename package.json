@@ -23,7 +23,7 @@
     "@mapbox/whoots-js": "^3.0.0",
     "brfs": "^1.4.0",
     "bubleify": "^0.7.0",
-    "cached-vector-tile": "^1.0.1",
+    "cached-vector-tile": "github:wpmedia/cached-vector-tile",
     "csscolorparser": "~1.0.2",
     "earcut": "^2.1.3",
     "geojson-rewind": "^0.3.0",

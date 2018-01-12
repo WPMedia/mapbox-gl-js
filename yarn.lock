@@ -2027,9 +2027,9 @@ cached-path-relative@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/cached-path-relative/-/cached-path-relative-1.0.1.tgz#d09c4b52800aa4c078e2dd81a869aac90d2e54e7"
 
-cached-vector-tile@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/cached-vector-tile/-/cached-vector-tile-1.0.1.tgz#dae7176d673784030cf7429fd4ff56bec9e44339"
+"cached-vector-tile@github:wpmedia/cached-vector-tile":
+  version "1.0.0"
+  resolved "https://codeload.github.com/wpmedia/cached-vector-tile/tar.gz/f194a615c4f2a6a6cdb31b21affdc888f5d56535"
   dependencies:
     point-geometry "0.0.0"
 
